@@ -5,7 +5,8 @@ import static org.hamcrest.Matchers.is;
 
 public class FizzBuzzTest {
     @Test
-    public void testSomething() {
+    public void testSomething()
+    {
         assertThat(1, is(1));
     }
 }
